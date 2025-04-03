@@ -12,9 +12,9 @@ For each simulation scenario (i.e., frequent exposure & outcome, rare exposure, 
 
 **3.1 For Each Method Except SL Methods:**
 
-*3.1.1 Navigate to the Corresponding Folder for Each Method*
+3.1.1 Navigate to the Corresponding Folder for Each Method
 
-Each folder contains 1 to 3 files. For folders containing more than one file, the file name will indicate the SL library used, with filenames ending in `_1` for the 1-learner library, `_3` for the 3-learner library, and `_4` for the 4-learner library.
+*Each folder contains 1 to 3 files. For folders containing more than one file, the file name will indicate the SL library used, with filenames ending in `_1` for the 1-learner library, `_3` for the 3-learner library, and `_4` for the 4-learner library.*
 
 *3.1.2 Run the File to Generate the Results*
 
