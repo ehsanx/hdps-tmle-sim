@@ -6,7 +6,7 @@ Code and materials for a simulation study evaluating high-dimensional proxy adju
 ### 1. Navigate to the `simulation` Folder
 
 ### 2. Navigate to the Corresponding Folder for Each Scenario
-For each simulation scenario (i.e., frequent exposure & outcome, rare exposure, and rare outcome), go to the appropriate folder (i.e., `frequent`, `rare_exposure`, and `rare_outcome`, respectively).
+- For each simulation scenario (i.e., frequent exposure & outcome, rare exposure, and rare outcome), go to the appropriate folder (i.e., `frequent`, `rare_exposure`, and `rare_outcome`, respectively).
 
 ### 3. Running Simulations for Each Method:
 
