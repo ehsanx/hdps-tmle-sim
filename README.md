@@ -15,6 +15,8 @@ For each simulation scenario (i.e., frequent exposure & outcome, rare exposure, 
 <div style="margin-left: 27px;">
 #### 3.1 For Each Method Except SL Methods:
 
+</h4>3.1 For Each Method Except SL Methods:</h4>
+
 <div style="margin-left: 30px;">
 ##### 3.1.1 Navigate to the Corresponding Folder for Each Method
 
