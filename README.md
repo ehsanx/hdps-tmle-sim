@@ -16,9 +16,9 @@ For each simulation scenario (i.e., frequent exposure & outcome, rare exposure, 
 
 - Each folder contains 1 to 3 files. For folders containing more than one file, the file name will indicate the SL library used, with filenames ending in `_1` for the 1-learner library, `_3` for the 3-learner library, and `_4` for the 4-learner library.
 
-*3.1.2 Run the File to Generate the Results*
+3.1.2 Run the File to Generate the Results
 
-Run the file to generate the simulation results. To adjust the number of simulation iterations, modify the values of `iterStart` and `iterStop`. The total number of simulations generated will be: `iterStop - iterStart + 1`.
+-- Run the file to generate the simulation results. To adjust the number of simulation iterations, modify the values of `iterStart` and `iterStop`. The total number of simulations generated will be: `iterStop - iterStart + 1`.
 
 3.1.3 View the Results
 
