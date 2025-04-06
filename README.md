@@ -64,8 +64,8 @@ Each folder contains subfolders for methods. The folder names correspond to the 
   "purrr",                  # Functional programming
   "parallel",               # Parallel computing
   "plyr"                    # Splitting/applying/combining
-))
-```
+  ))
+  ```
 
 ---
 
