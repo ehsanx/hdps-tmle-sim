@@ -138,7 +138,7 @@ Go to the relevant folder under `simulation/`:
 
 For a detailed explanation of method-specific workflows, including variable selection, model fitting, and effect estimation:
 
-➡️ See [MethodWorkflows](MethodWorkflows.html)
+➡️ See [MethodWorkflows](MethodWorkflows.md)
 
 
 ---
