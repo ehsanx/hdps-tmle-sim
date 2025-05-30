@@ -158,6 +158,12 @@ For a detailed explanation of method-specific workflows, including variable sele
   
 ---
 
+## 📚 Citation  
+
+Karim, M. E., & Lei, Y. (2025). How Effective Are Machine Learning and Doubly Robust Estimators in Incorporating High‐Dimensional Proxies to Reduce Residual Confounding? *Pharmacoepidemiology and Drug Safety*, 34(5), e70155. First published: 14 May 2025 DOI: [10.1002/pds.70155](https://doi.org/10.1002/pds.70155)
+
+---
+
 ## 📄 License
 
 This project is licensed under the GPL-3.0 license.
